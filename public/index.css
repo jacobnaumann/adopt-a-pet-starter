@@ -70,6 +70,10 @@
   margin: 40px 0 35px 0;
 }
 
+.page p {
+  text-align: center;
+}
+
 .page img {
   margin: 0 auto;
   display: block;
